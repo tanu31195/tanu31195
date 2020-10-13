@@ -52,9 +52,6 @@
 ![Top Langs](https://github-readme-stats.tanu31195.vercel.app/api/top-langs/?username=tanu31195&layout=compact)
 
 
-[![ReadMe Card](https://github-readme-stats.tanu31195.vercel.app/api/pin/?username=tanu31195&repo=TankerZ)](https://github.com/tanu31195/TankerZ)
-
-
 [website]: https://tanu31195.github.io/
 [twitter]: https://twitter.com/tanushkabandara
 [youtube]: https://www.youtube.com/user/95tanushka/
