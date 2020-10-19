@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer at [CodeGen International](http://www.codegen.co.uk/)!!
 
-###Some side projects,
+### Some side projects,
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
 - [ReactTest Game](https://tanu31195.github.io/ReacTest/)  
 - [CodePlay App](https://tanu31195.github.io/CodePlay/)  
