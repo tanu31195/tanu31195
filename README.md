@@ -7,12 +7,12 @@
 
 ### Some side projects,
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
-- [ReactTest Game](https://tanu31195.github.io/ReacTest/)  
 - [CodePlay App](https://tanu31195.github.io/CodePlay/)  
 - [TicTacToe App](https://tictactoe-16398.web.app/)  
 - [Meditation App](https://tanu31195.github.io/js-meditation-app/)  
 - [BeatMaker App](https://tanu31195.github.io/js-beatmaker/)  
 - [Weather App](https://tanu31195.github.io/js-weather-app/)  
+- [ReactTest Game](https://tanu31195.github.io/ReacTest/)  
 - [Timeline Steve Jobs](https://tanu31195.github.io/timeline-stevejobs/)  
 - [App landing Page](https://tanu31195.github.io/app-landing-page/)  
 
