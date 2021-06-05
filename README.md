@@ -57,7 +57,9 @@
 <!--START_SECTION:activity-->
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanu31195&" alt="tanu31195" /></p>
 
+![tanu31195's github streak stats](https://komarev.com/ghpvc/?username=tanu31195)
 
 
 ![tanu31195's github stats](https://github-readme-stats.tanu31195.vercel.app/api?username=tanu31195&hide=contribs,issues)
