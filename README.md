@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=tanu31195.github.io&style=for-the-badge&url=https%3A%2F%2Ftanu31195.github.io)](https://tanu31195.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tanushkabandara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftanu31195&screen_name=tanushkabandara)
+![tanu31195's github profile views](https://komarev.com/ghpvc/?username=tanu31195)
 
 ## I'm a Software Engineer at [CodeGen International](http://www.codegen.co.uk/)!!
 
@@ -58,8 +59,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanu31195&" alt="tanu31195" /></p>
-
-![tanu31195's github streak stats](https://komarev.com/ghpvc/?username=tanu31195)
 
 
 ![tanu31195's github stats](https://github-readme-stats.tanu31195.vercel.app/api?username=tanu31195&hide=contribs,issues)
