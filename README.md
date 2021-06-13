@@ -8,7 +8,7 @@
 
 ### Some side projects,
 - [IPL Dashboard](http://ipldashboard-env.eba-zgpmvgqi.us-east-2.elasticbeanstalk.com/#/)
-- [React Chat App](https://tanu31195-react-chat-app.netlify.app/)
+- [React Chat App](https://tanu31195-react-chat-app.netlify.app/) (stranger/stranger@123)
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
 - [CodePlay App](https://tanu31195.github.io/CodePlay/)  
 - [TicTacToe App](https://tictactoe-16398.web.app/)  
