@@ -19,6 +19,19 @@
 - [Timeline Steve Jobs](https://tanu31195.github.io/timeline-stevejobs/)  
 - [App landing Page](https://tanu31195.github.io/app-landing-page/)  
 
+### Notes
+- [Javascript/ECMAScript 6](https://github.com/tanu31195/js-es6)
+- [React](https://github.com/tanu31195/react-counter)
+- [React Advanced](https://github.com/tanu31195/react-advanced)
+- [MongoDB](https://github.com/tanu31195/mongodb-helloworld)
+- [Gulp](https://github.com/tanu31195/gulp-helloworld)
+- [Node.js](https://github.com/tanu31195/nodejs-helloworld)
+
+### Cheat Sheets
+- [Git](https://tanu31195.github.io/git-cheatsheet/)
+- [Git Aliases](https://github.com/tanu31195/git-aliases)
+- [RegEx](https://github.com/tanu31195/cheat-sheets/blob/master/regex.md)
+
 ### Connect with me:
 
 [<img align="left" alt="tanu31195.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
