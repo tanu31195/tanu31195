@@ -1,7 +1,7 @@
 ### Hi there, I'm Tanushka - aka [tanu31195][website] 👋
 
 [![Website](https://img.shields.io/website?label=tanu31195.github.io&style=for-the-badge&url=https%3A%2F%2Ftanu31195.github.io)](https://tanu31195.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tanushkabandara?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftanu31195&screen_name=tanushkabandara)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanu31195?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftanu31195&screen_name=tanu31195)
 ![tanu31195's github profile views](https://komarev.com/ghpvc/?username=tanu31195)
 
 ## I'm a Software Engineer at [Mitra Innovation](https://mitrai.com/)!!
