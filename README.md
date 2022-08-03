@@ -7,8 +7,6 @@
 ## I'm a Software Engineer at [Mitra Innovation](https://mitrai.com/)!!
 
 ### Some side projects,
-- [IPL Dashboard](http://ipldashboard-env.eba-zgpmvgqi.us-east-2.elasticbeanstalk.com/#/)
-- [React Chat App](https://tanu31195-react-chat-app.netlify.app/) (stranger/stranger@123)
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
 - [CodePlay App](https://tanu31195.github.io/CodePlay/)  
 - [TicTacToe App](https://tictactoe-16398.web.app/)  
@@ -18,6 +16,8 @@
 - [ReactTest Game](https://tanu31195.github.io/ReacTest/)  
 - [Timeline Steve Jobs](https://tanu31195.github.io/timeline-stevejobs/)  
 - [App landing Page](https://tanu31195.github.io/app-landing-page/)  
+- [IPL Dashboard](http://ipldashboard-env.eba-zgpmvgqi.us-east-2.elasticbeanstalk.com/#/)  
+- [React Chat App](https://tanu31195-react-chat-app.netlify.app/) (stranger/stranger@123)  
 
 ### Notes
 - [Javascript/ECMAScript 6](https://github.com/tanu31195/js-es6)
