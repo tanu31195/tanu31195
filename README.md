@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/tanu31195?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftanu31195&screen_name=tanu31195)
 ![tanu31195's github profile views](https://komarev.com/ghpvc/?username=tanu31195)
 
-## I'm a Software Engineer at [Mitra Innovation](https://mitrai.com/)!!
+## I'm a Senior Software Engineer at [Mitra Innovation](https://mitrai.com/)!!
 
 ### Some side projects,
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
