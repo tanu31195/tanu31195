@@ -77,12 +77,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanu31195&" alt="tanu31195" /></p>
 
 
-![tanu31195's github stats](https://github-readme-stats.tanu31195.vercel.app/api?username=tanu31195&hide=contribs,issues)
 ![tanu31195's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanu31195&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.tanu31195.vercel.app/api/top-langs/?username=tanu31195&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu31195)](https://github.com/tanu31195/github-readme-stats)
 
 [website]: https://tanu31195.github.io/
 [twitter]: https://twitter.com/tanushkabandara
