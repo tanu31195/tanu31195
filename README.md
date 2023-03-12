@@ -80,7 +80,8 @@
 ![tanu31195's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanu31195&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu31195)](https://github.com/tanu31195/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu31195&layout=compact)](https://github.com/tanu31195/github-readme-stats)
+[![tanu31195's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanu31195)](https://github.com/tanu31195/github-readme-stats)
 
 [website]: https://tanu31195.github.io/
 [twitter]: https://twitter.com/tanushkabandara
