@@ -78,6 +78,7 @@
 
 
 ![tanu31195's github stats](https://github-readme-stats.tanu31195.vercel.app/api?username=tanu31195&hide=contribs,issues)
+![tanu31195's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanu31195&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.tanu31195.vercel.app/api/top-langs/?username=tanu31195&layout=compact)
