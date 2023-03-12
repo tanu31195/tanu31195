@@ -7,6 +7,7 @@
 ## I'm a Senior Software Engineer at [Mitra Innovation](https://mitrai.com/)!!
 
 ### Some side projects,
+- [React TS Markdown Notes App](https://react-ts-notes-app.vercel.app)
 - [Car Game](https://tanu31195.github.io/js-car-game/)  
 - [CodePlay App](https://tanu31195.github.io/CodePlay/)  
 - [TicTacToe App](https://tictactoe-16398.web.app/)  
