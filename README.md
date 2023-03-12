@@ -77,14 +77,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanu31195&" alt="tanu31195" /></p>
 
 
-![tanu31195's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanu31195&show_icons=true&theme=radical)
+![tanu31195's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanu31195&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu31195&layout=compact)](https://github.com/tanu31195/github-readme-stats)
-[![tanu31195's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanu31195)](https://github.com/tanu31195/github-readme-stats)
+
 
 [website]: https://tanu31195.github.io/
-[twitter]: https://twitter.com/tanushkabandara
-[youtube]: https://www.youtube.com/user/95tanushka/
+[twitter]: https://twitter.com/tanu31195
+[youtube]: https://www.youtube.com/user/tanu31195/
 [instagram]: https://instagram.com/tanu31195
 [linkedin]: https://www.linkedin.com/in/tanushka-bandara/
